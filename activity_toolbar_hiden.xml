@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"
+            android:background="#ccc"
+            app:layout_scrollFlags="scroll|enterAlways" />
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            app:layout_scrollFlags="scroll|enterAlways">
+
+            <!--将你的内容放在这里-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="aaaaaaaaaaaaaaaaaaaaa
+            aaaaaaaaaaaaaaaaaaaaaaaa       "
+                android:textSize="40sp" />
+
+        </android.support.v4.widget.NestedScrollView>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#000"
+
+            ></TableLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <!--将你的内容放在这里-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="aaaaaaaaaaaaaaaaaaaaa
+            aaaaaaaaaaaaaaaaaaaaaaaa
+            aaaaaaaaaaaaaaaaaaaaa
+            aaaaaaaaaaaaa
+            aaaaaaaaaaaaaaa
+            aaaaaaaaaaa
+            aaaaaaaaaaaaaaaa
+            aaaaaaaaaaaaa
+            aaaaaaaaaaa
+            aaaaaaaaa
+            aaaaaaaaaaa
+            aaaaaaaaaa
+            aaaaaaaa
+            aaaaaaaaa
+            aaaaaaaa
+            aaaaaaaaaaaaa
+            aaaaaaaaaaa
+            aaaaaaaaaaa
+            aaaaaaaaaaaa
+            aaaaaaaaaaaaaa
+            aaaaaaaaaa
+            aaaaaaaa
+            aaaaaaaaaaaa
+            aaaaaaaaaaa
+            aaaaaaaaaaaa
+            aaaaaaaaaa
+            aaaaaaaaaaaaa"
+            android:textSize="40sp" />
+
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>
