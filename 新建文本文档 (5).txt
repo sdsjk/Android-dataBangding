@@ -1,2 +1,4 @@
-Android StudioÏÂSVNµÄÓÃ·¨(1) - ³õÊ¶SVN  http://blog.csdn.net/bevislius/article/details/52193165
- ¹úÄÚÒ»Ïß»¥ÁªÍø¹«Ë¾ÄÚ²¿ÃæÊÔÌâ¿â     http://blog.csdn.net/rain_butterfly/article/details/51946197   https://github.com/GeniusVJR/LearningNotes
+Android Studioä¸‹SVNçš„ç”¨æ³•(1) - åˆè¯†SVN  http://blog.csdn.net/bevislius/article/details/52193165
+ å›½å†…ä¸€çº¿äº’è”ç½‘å…¬å¸å†…éƒ¨é¢è¯•é¢˜åº“     http://blog.csdn.net/rain_butterfly/article/details/51946197   https://github.com/GeniusVJR/LearningNotes
+ 
+ å¼ ä¸€åšå“ˆå“ˆ
